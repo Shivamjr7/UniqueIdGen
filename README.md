@@ -83,5 +83,5 @@ Types of UUID :
 	· SPOF 
 	
 
-Option 8:  Twitter Snowflake ![image](https://github.com/Shivamjr7/UniqueIdGen/assets/29726341/ad1cb354-d39d-4655-a5ff-8dfd894b46c2)
+### Option 8:  Twitter Snowflake 
 
